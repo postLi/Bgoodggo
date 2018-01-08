@@ -1,0 +1,71 @@
+.Bgoodggo { width: 100%; }
+
+.Bgoodggo .top { width: 100%; }
+
+.Bgoodggo .Bg_content h2 { height: 50px; line-height: 50px; font-size: 18px; color: #444444; font-weight: bold; }
+
+.Bgoodggo .Bg_content .Bg_c_left { width: 237px; height: 532px; float: left; margin-right: 5px; }
+
+.Bgoodggo .Bg_content .Bg_c_center { width: 720px; height: 530px; float: left; padding-top: 3px; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont { position: relative; width: 720px; height: 480px; overflow: hidden; float: left; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont ul { height: 480px; width: 3600px; position: absolute; left: 0; top: 0; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont ul li { float: left; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont .btnNext, .Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont .btnPrev { width: 30px; height: 50px; line-height: 50px; position: absolute; left: 0; top: 50%; padding: 10px 5px; transform: translate(0, -50%); text-align: center; background-color: rgba(0, 0, 0, 0.3); color: #fff; font-size: 24px; cursor: pointer; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_cont .btnNext { left: auto; right: 0; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item { width: 718px; height: 52px; float: left; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item .active { border-top: 2px solid red; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item ul { width: 718px; height: 50px; border: 1px solid #ccc; left: 0px; top: 0px; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item ul li { display: block; float: left; height: 48px; line-height: 48px; border-top: 1px solid #ccc; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item ul li a { padding: 0 32px; font-size: 14px; border-right: 1px solid #ccc; color: #66667D; }
+
+.Bgoodggo .Bg_content .Bg_c_center .Bg_c_center_item ul li .last { border-right: 0; }
+
+.Bgoodggo .Bg_content .Bg_c_right { width: 236px; float: right; }
+
+.Bgoodggo .Bg_content .Bg_c_right a img { margin-top: 6px; }
+
+.Bgoodggo .Bg_content .Bg_tab { width: 1200px; overflow: hidden; position: relative; float: left; height: 121px; padding-top: 5px; }
+
+.Bgoodggo .Bg_content .Bg_tab .tab_list { width: 2350px; height: 121px; position: absolute; }
+
+.Bgoodggo .Bg_content .Bg_tab .tab_list li { float: left; }
+
+.Bgoodggo .Bg_content .Bg_tab .next, .Bgoodggo .Bg_content .Bg_tab .prev { width: 30px; height: 30px; line-height: 30px; position: absolute; left: 0; top: 50%; padding: 10px 5px; transform: translate(0, -50%); text-align: center; background-color: rgba(0, 0, 0, 0.3); color: #fff; font-size: 24px; border-radius: 50%; cursor: pointer; }
+
+.Bgoodggo .Bg_content .Bg_tab .next { left: auto; right: 0; }
+
+.Bgoodggo .Bg_content .Bg_main_img { padding-top: 22px; float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left { width: 240px; float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left .Bg_main_img_left_list { height: 91px; background: #FAFAFA; padding: 20px 0 10px 10px; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left .Bg_main_img_left_list li { width: 95px; float: left; text-align: center; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left .Bg_main_img_left_list a { height: 30px; line-height: 30px; font-size: 14px; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left .Bg_main_img_left_icon { float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left .Bg_main_img_left_icon li { float: left; width: 120px; height: 60px; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_c { float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_r { float: left; width: 720px; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_r .left_c_top { float: left; height: 240px; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_r .left_c_top li { float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_r .left_c_botm { float: left; }
+
+.Bgoodggo .Bg_content .Bg_main_img .Bg_main_img_left_r .left_c_botm li { float: left; }

@@ -1,0 +1,124 @@
+.Bgoodggo{
+	.Bg_zc{
+		width:980px;
+		height:400px;
+		margin:0 auto;
+		.Bg_zc_title{
+			width:980px;
+			padding:10px 0 0 0;
+			border-bottom:1px solid #6E6E6E;
+			a{
+				display:block;
+				text-align:center;
+				width:160px;
+				height:28px;
+				line-height:28px;
+				font-size:14px;
+				color:#fff;
+				background:#6E6E6E;
+				border-top-left-radius:5px;
+				border-top-right-radius:5px;
+			}
+		}
+		.Bg_zc_phone{
+			margin:30px 28px;
+			border:1px solid #ccc;
+			.Bg_zc_phone_l{
+				float:left;
+			}
+			.Bg_zc_phone_l{
+				width:670px;
+				height:320px;
+				floa:left;
+				h6{
+					height:34px;
+					line-height:34px;
+					font-size:14px;
+					border-bottom:1px dashed #ccc;
+					margin-bottom:20px;
+				}
+				.same{
+					width:670px;
+					height:60px;
+					padding-top:10px;
+					span{
+						display:block;
+						width:300px;
+						height:38px;
+						float:left;
+						margin-left:10px;
+						color:#999999;
+					}
+					.love{
+						width:100px;
+						float:left;
+							text-align:right;
+						a{
+							font-size:14px;
+							color:#6E6E6E;
+							height:32px;
+							line-height:32px;
+						}
+					}
+					input{
+						width:247px;
+						height:30px;
+						border:1px solid #ccc;
+						float:left;
+					}
+					input.active{
+						border:2px solid red;
+					}
+					.a1,.a2,.a3{
+						height:20px;
+						line-height:20px;
+						margin-left:120px;
+						color:red;
+					}
+				}
+				.Bg_zc_phone_l_y{
+					.input1{
+						width:127px;
+						margin-right:10px;
+					}
+					.Text{
+						height:32px;
+						line-height:32px;
+						text-align:center;
+						width:127px;
+						margin-right:10px;
+						background:pink;
+						float:left;
+						color:#fff;
+						font-size:24px;
+					}
+					.btn_flush{
+						display:block;
+						width:40px;
+						height:32px;
+						line-height:32px;
+						text-align:center;
+						color:#999999;
+						float:left;
+						cursor: pointer;
+					}
+				}
+			}
+			p{
+				.btn_send{
+					display:block;
+					width:152px;
+					height:34px;
+					text-align:center;
+					line-height:34px;
+					font-size:14px;
+					color:#fff;
+					border:1px solid #FE8383;
+					background:#EB1010;
+					margin-left:120px;
+					border-radius:5px;
+				}
+			}
+		}
+	}
+}

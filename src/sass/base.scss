@@ -1,0 +1,37 @@
+@charset "UTF-8";
+*{margin:0;padding:0;}
+.container{width:1200px; margin:0 auto;}
+/*css 初始化 */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img,input{ margin:0; padding:0; }
+fieldset,img,input,button { border:0 none;padding:0;margin:0;outline-style:none;}  
+ /*去掉input等聚焦时的蓝色边框*/
+ul,ol,li{ list-style:none;}
+input { padding-top:0; padding-bottom:0; font-family: "SimSun","宋体";}
+select, input { vertical-align:middle;}
+select, input, textarea { font-size:12px; margin:0; }
+textarea { resize:none; } /*防止拖动*/
+img{border:0 none;vertical-align:middle;}  
+/* 去掉图片底侧默认的3像素空白缝隙，或者用display：block也可以*/
+table {border-collapse:collapse;}
+
+/*添加公共样式*/
+body {font-size:12px;color:#000;background:#fff;}
+a {color:#000;text-decoration:none;}
+h1,h2,h3,h4,h5,h6 {text-decoration:none;font-weight:normal;font-size:1em;}  
+s,i,em{font-style:normal;text-decoration:none;}
+/*让旧版本浏览器支持html5语义标签*/
+header,section,main,footer,aside,nav,article,figure{ display: block; }
+
+/*清除浮动*/
+.clearfix::after{display: block;clear:both;content:"";overflow: hidden;visibility:hidden;height:0;zoom:1;}
+
+/*公共类*/
+.fl {float:left;}
+.fr {float:right;}
+.al {text-align:left;}
+.ac {text-align:center;}
+.ar {text-align:right;}
+.hide {display:none;}
+.font12{ font-size: 12px;}
+.font14{ font-size: 14px;}
+.font16{ font-size: 16px;}

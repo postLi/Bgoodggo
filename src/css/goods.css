@@ -1,0 +1,19 @@
+.Bgoodggo .Bg_goods .Bg_goods_t { padding-top: 30px; }
+
+.Bgoodggo .Bg_goods .Bg_goods_t a { height: 42px; line-height: 42px; }
+
+.Bgoodggo .Bg_goods .Bg_goods_l { width: 530px; height: 600px; background: yellow; float: left; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r { width: 668px; height: 600px; float: right; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r h2 { height: 40px; font-size: 16px; font-weight: bold; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r .Bg_goods_r_p { height: 62px; width: 640px; background: #F6F6F6; padding: 20px 14px; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r .Bg_goods_r_p p { height: 30px; line-height: 30px; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r .Bg_goods_r_p p .p1 { font-size: 18px; height: 30px; color: #F8584F; font-weight: bold; margin-right: 20px; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r .Bg_goods_r_p p .p2 { width: 48px; height: 27px; line-height: 27px; text-align: center; background: #F84646; float: right; color: #fff; }
+
+.Bgoodggo .Bg_goods .Bg_goods_r .Bg_goods_r_p p a { float: right; }

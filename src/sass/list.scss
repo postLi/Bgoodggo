@@ -1,0 +1,190 @@
+.Bgoodggo{
+	width:100%;
+	height:700px;
+	.Bg_list{
+		width:100%;
+		height:100%;
+		.Bg_list_top{
+			height:58px;
+
+				position:relative;
+			a{
+				line-height:58px;
+			}
+			input{
+				width:122px;
+				height:24px;
+				border:1px solid #ccc;
+				margin-left:10px;
+				padding-left:10px;
+			}
+			.icon_search{
+				width:28px;
+				height:18px;
+				position:absolute;
+				background:url('../img/Bgoodggo.fw.png') -707px 0 no-repeat;
+						position:absolute;
+						left:280px;
+						top:21px;
+			}
+		}
+		.Bg_list_left{
+			float:left;
+			h2{
+				width:218px;
+				height:30px;
+				border-bottom:1px solid #000000;
+				font-size:14px;
+				font-weight:bold;
+			}
+			ul{
+				li{
+					position:relative;
+					a{
+						width:222px;
+						height:30px;
+						line-height:30px;
+						padding-left:17px;
+					}
+					.icon_list{
+						width:11px;
+						height:14px;
+						background:url('../img/Bgoodggo.fw.png') -624px 0 no-repeat;
+						position:absolute;
+						left:0px;
+						top:8px;
+					}
+				}
+			}
+		}
+		.Bg_list_right{
+			float:left;
+			.Bg_list_right_top{
+				width:978px;
+				height:205px;
+				border:1px solid #ccc;
+				ul{
+					height:36px;
+					background:#F7F7F7;
+					border-bottom:1px solid #ccc;
+					li{
+						display:block;
+						float:left;
+						a{
+								height:36px;
+								line-height:36px;
+							span{
+								padding:0 12px;
+								border-right:1px solid #ccc;
+							}
+						}
+					}
+				}
+				p{
+					height:33px;
+					line-height:40px;
+					span{
+						padding:0 22px;
+						border-right:1px solid #ccc;
+					}
+					a{
+						padding:0 11px;
+					}
+					input{
+						width:48px;
+						height:22px;
+						border:1px solid #ccc;
+					}
+					#btn_check{
+						padding:0 5px;
+					}
+					section{
+						display:block;
+						border:1px solid #ccc;
+						width:90px;
+					}
+				}
+			}
+			h4{
+				height:44px;
+				line-height:44px;
+				span{
+					color:#D51819;
+					font-weight:bold;
+				}
+			}
+			.price_box{
+				width:978px;
+				height:40px;
+				border:none;
+				padding:none;
+				float:left;
+				li{
+						border-right:2px solid #fff;
+						padding:0 22px;
+					a{
+					}
+				}
+				li:hover{
+					background:#F8584F;
+				}
+			}
+			.Bg_goodlist{
+				float:left;
+				width:978px;
+				.Bg_ul{
+					width:978px;
+					li{
+					
+						width:300px;
+						height: 483px;
+						float: left;
+						display: block;
+						margin-top: 15px;
+						margin-right: 18px;
+						position: relative;
+						.title{
+							display:block;
+							font-size:14px;
+							overflow:hidden;
+							height:20px;
+							line-height:20px;
+						}
+						.name{
+							display:block;
+							font-size:14px;
+							
+						}
+						.price{
+							display:block;
+							font-size:14px;
+							height:20px;
+							line-height:20px;
+							fonte-weight:bold;
+							.del{
+								text-algin:center;
+								margin-left:40px;
+								color:red;
+							}
+						}
+					}
+				}
+				.page{
+					span{
+						display:inline-block;
+						margin:5px;
+						width:40px;
+						line-height:1.8;
+						text-align: center;
+						background-color:#dfdfdf;
+						color:#666;
+					}
+					span.active{
+						background-color:#fc0;
+						color:#fff;
+					}
+				}
+			}
+		}
+	}	
+}

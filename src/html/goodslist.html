@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>详情页</title>
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" href="../css/goodlist.css">
+	<link rel="stylesheet" href="../css/header.css">
+	<link rel="stylesheet" href="../css/footer.css">
+	<script src="../lib/jquery-3.2.1.js"></script>
+	<script src="../js/goodlist.js"></script>
+</head>
+<body>
+	<script>
+		$(function(){
+			$('.pageHeader').load('header.html')
+			$('.pageFooter').load('footer.html')
+		})
+	</script>
+	<div class="Bgoodggo">
+		<div class="pageHeader"></div>
+		<div class="Bg_goods">
+			<div class="container clearfix">
+				<div class="Bg_goods_t">
+					<a href="#">所有商品></a>
+					<a href="#">女装></a>
+					<a href="#">外套></a>
+					<a href="#">棉服></a>
+				</div>
+				<div class="Bg_goods_l">
+					<div class="tab_content"></div>
+					<div class="tab_Item">
+						<ul class="clearfix">
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+					</div>
+				</div>
+				<div class="Bg_goods_r">
+					<div class="title">
+						<h2></h2>
+						<span class="t_name"></span>
+					</div>
+					<div class="Bg_goods_r_p">
+						<p>售价：<span class="p1"></span ><span class="p2">折</span><span class="p3"></span>品牌价<del class="del"></del></p>
+						<p>本品不参加vip,svip折扣<a href="#">会员规则</a></p>
+					</div>
+					<div class="Bg_sele clearfix">
+						<a href="#">销量<span class="qty"></span></a>
+						<a href="#">累计评价<span>430</span></a>
+						<a href="#">邦购送积分<span>378</span></a>
+					</div>
+					<div class="Bg_xq">
+						<p class="color">颜色：<span class="c_color"></span></p>
+						<span class="smImg"></span>
+						<p class="size">尺码：<span class="c_size"></span></p>
+						<span class="smSize">160/70</span>
+						<div class="Bg_sl">
+							<p>数量：</p>
+							<span class="jian">-</span>
+							<span class="num">
+								<input type="text" value="1" class="input"></input>
+							</span>
+							<span class="add">+</span>
+						</div>
+						<button class="goods_btn">加入购物袋</button>
+						<p>浏览更多：<a href="#">大衣</a></a></p>
+						<p>温馨提示：<span>此商品不可用积分</span><span><a href="#">14天退换</a></span></p>
+					</div>
+				</div>
+				<div class="Bg_add">
+					<div class="title">
+						<h4>提示<span class="close">&times;</span></h4>
+					</div>
+					<div class="content">
+						<h1>添加购物车</h1>
+						<button class="btn1">去结算</button>
+						<button class="btn2">继续购物</button>
+					</div>
+				</div>
+			</div>
+		<div class="pageFooter"></div>
+	</div>
+</body>
+</html>

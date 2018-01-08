@@ -1,0 +1,175 @@
+.Bgoodggo{
+	width:100%;
+	height:100%;
+	.Bg_car{
+		.Bg_sp{
+			width:100%;
+			padding:20px 0;
+			float:left;
+			h4{
+				display:block;
+				height: 42px;
+				line-height: 42px;
+				font-size: 18px;
+				font-weight: 700;
+				color: #000;
+				float:left;
+			}
+			a{
+				diaplay:block;
+				float: right;
+				font-size: 14px;
+				margin-top: 16px;
+			}
+		}
+		.Bg_choose{
+			float:left;
+			width:100%;
+			background:#F8F7F7;
+			ul{
+				height:40px;
+				li{
+					float:left;
+					height:40px;
+					line-height:40px;
+					padding:0 110px 0 20px;
+				}
+			}
+		}
+		.Bg_carlist{
+			float:left;
+			width:100%;
+			margin:20px 0;
+			border:1px solid #ccc;
+			.Bg_carlist_t{
+				width:100%;
+				height:40px;
+				line-height:40px;
+				background:#FDF6EE;
+				border-bottom:1px solid #ccc;
+				float:left;
+				label{
+					margin-left:20px;
+				}
+				span{
+					float:right;
+					margin-right:50px;
+				}
+			}
+			ul{
+				float:left;
+				padding:20px;
+				li{
+					width:193px;
+					height:78px;
+					float:left;
+					.imglist{
+						display:block;
+						width:78px;
+						height:78px;
+						border:1px solid #ccc;
+						float:left;
+						img{
+							width:78px;
+							height:78px;
+						}
+					}
+					p{
+						display:block;
+						font-size:14px;
+						font-weight:bold;
+						
+					}
+					span{
+						width:193px;
+						font-size:12px;
+						font-weight:normal;
+						text-align:center;
+					}
+					.check{
+						float:left;
+						margin:0 20px ;
+					}
+				}
+				.two{
+					display:block;
+					span{
+						display:block;
+						width:193px;
+					}
+				}
+				.four{
+					
+					.jian,.add{
+						display:block;
+						width:17px;
+						height:25px;
+						line-height:25px;
+						border:1px solid #ccc;
+						float:left;
+						background:#ccc;
+						color:black;
+						text-align:center;
+						cursor: pointer;
+					}
+					.input{
+						width:52px;
+						height:25px;
+						line-height:25px;
+						border:1px solid #ccc;
+						float:left;
+						text-align:center;
+					}
+				}
+				.fir{
+					color:red;
+					.total{
+						font-weight:bold;
+					}
+				}
+				.six{
+					display:block;
+					.sc{
+						display:block;
+						float:right;
+						cursor: pointer;
+					}
+				}
+			}
+		}
+		.Bg_bt{
+			width:100%;
+			height:60px;
+			background:#ccc;
+			line-height: 60px;
+		    font-size: 14px;
+		    float:left;
+		    margin:20px 0;
+		    label{
+		    	margin-left: 20px;
+		    	cursor: pointer;
+		    }
+		    a{
+		    	margin:0 5px;
+		    }
+		    .all_p{
+		    	font-style: normal;
+			    font-size: 20px;
+			    color: #f8584f;
+			    margin-left:470px;
+		    }
+		    .btn_all{
+		    	float: right;
+			    width: 12%;
+			    height: 60px;
+			    text-align: center;
+			    line-height: 60px;
+			    font-size: 26px;
+			    color: #fff;
+		    }
+		    .btn_all:hover{
+		    	background:#F8584F;
+		    }
+		}
+	}
+}

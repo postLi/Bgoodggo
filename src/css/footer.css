@@ -1,0 +1,37 @@
+.Bgoodggo .Bg_footer { height: 600px; }
+
+.Bgoodggo .Bg_footer .box { width: 1200px; margin: 0 auto; overflow: hidden; }
+
+.Bgoodggo .Bg_footer .box .bq_img .bq_li { height: 240px; width: 279px; float: left; border-right: 1px solid #ccc; position: relative; }
+
+.Bgoodggo .Bg_footer .box .bq_img .bq_li .icon_one { width: 279px; height: 240px; position: absolute; background: url("../img/Bgoodggo.fw.png") 0 -78px no-repeat; left: 0; top: 0; }
+
+.Bgoodggo .Bg_footer .box .bq_img .bq_li .icon_two { width: 279px; height: 240px; position: absolute; background: url("../img/Bgoodggo.fw.png") 0 -330px no-repeat; left: 0; top: 0; }
+
+.Bgoodggo .Bg_footer .box .bq_img .bq_li .icon_third { width: 279px; height: 240px; position: absolute; background: url("../img/Bgoodggo.fw.png") 0 -588px no-repeat; left: 0; top: 0; }
+
+.Bgoodggo .Bg_footer .box .bq_img .bq_li .icon_four { width: 357px; height: 240px; position: absolute; background: url("../img/Bgoodggo.fw.png") 0 -842px no-repeat; left: 0; top: 0; }
+
+.Bgoodggo .Bg_footer .box .bq_img .last { width: 357px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c { height: 40px; background: #F7F7F7; margin-top: 42px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container { width: 1200px; margin: 0 auto; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_footer_c_t li { display: block; border: none; float: left; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_footer_c_t li h2 { width: 200px; height: 40px; line-height: 40px; font-size: 14px; color: #231815; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_footer_c_b { padding-top: 10px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_footer_c_b li { border: none; float: left; width: 200px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_footer_c_b li a { display: block; width: 200px; height: 30px; line-height: 30px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_pq h1 { border-top: 1px solid #ccc; color: #787878; font-weight: bold; font-size: 14px; text-align: center; height: 53px; line-height: 53px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_pq .Bg_bq { display: block; width: 400px; text-align: center; height: 55px; margin: 0 auto; position: relative; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_pq .Bg_bq .icon_bq1 { width: 136px; height: 40px; background: url("../img/Bgoodggo.fw.png") -804px 0 no-repeat; position: absolute; left: 50px; top: 0px; }
+
+.Bgoodggo .Bg_footer .Bg_footer_c .container .Bg_pq .Bg_bq .icon_bq2 { width: 118px; height: 40px; background: url("../img/Bgoodggo.fw.png") -1023px 0 no-repeat; position: absolute; left: 207px; top: 0px; }

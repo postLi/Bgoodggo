@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>购物车</title>
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" href="../css/car.css">
+	<link rel="stylesheet" href="../css/header.css">
+	<link rel="stylesheet" href="../css/footer.css">
+	<script src="../lib/jquery-3.2.1.js"></script>
+	<!-- <script src="../js/car.js"></script> -->
+	<!-- <script src="../lib/bootstrap-3.3.7-dist/css/bootstrap.css"></script> -->
+</head>
+<body>
+<script src="../js/require.js" data-main="../js/car.js"></script>
+	<script>
+		$(function(){
+			$('.pageHeader').load('header.html')
+			$('.pageFooter').load('footer.html')
+		})
+	</script>
+	<div class="Bgoodggo clearfix">
+		<div class="pageHeader"></div>
+		<div class="Bg_car">
+			<div class="container clearfix">
+				<div class="Bg_sp clearfix">
+					<h4>购物袋</h4>
+					<a href="#">领红包,字优惠卷</a>
+				</div>
+				<div class="Bg_choose">
+					<ul class="clearfix">
+						<li>
+							<label for="all">全选</label>
+							<input type="checkbox" id="all">
+						</li>
+						<li>商品信息</li>
+						<li>颜色尺码</li>
+						<li>单价(元)</li>
+						<li>数量</li>
+						<li>小计</li>
+						<li>操作</li>
+					</ul>
+				</div>
+				<div class="Bg_carlist clearfix">
+					<div class="Bg_carlist_t">
+						<label for="all">邦购</label>
+						<input type="checkbox" name="shop">
+						<span>满199减100</span>
+					</div>
+				</div>
+				<div class="Bg_bt">
+					<label for="del_all">全选</label>
+					<input type="checkbox" id="del_all">
+					<a href="#">删除所有商品</a>
+					<a href="#">清除失效商品</a>
+					<span class="all_p">合计(不含运费)：</span>
+					<button class="btn_all"><a href="login.html">去结算</a></button>
+				</div>
+			</div>
+		</div>	
+		<div class="pageFooter"></div>
+	</div>
+</body>
+</html>

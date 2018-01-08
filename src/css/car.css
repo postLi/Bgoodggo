@@ -1,0 +1,63 @@
+.Bgoodggo { width: 100%; height: 100%; }
+
+.Bgoodggo .Bg_car .Bg_sp { width: 100%; padding: 20px 0; float: left; }
+
+.Bgoodggo .Bg_car .Bg_sp h4 { display: block; height: 42px; line-height: 42px; font-size: 18px; font-weight: 700; color: #000; float: left; }
+
+.Bgoodggo .Bg_car .Bg_sp a { diaplay: block; float: right; font-size: 14px; margin-top: 16px; }
+
+.Bgoodggo .Bg_car .Bg_choose { float: left; width: 100%; background: #F8F7F7; }
+
+.Bgoodggo .Bg_car .Bg_choose ul { height: 40px; }
+
+.Bgoodggo .Bg_car .Bg_choose ul li { float: left; height: 40px; line-height: 40px; padding: 0 110px 0 20px; }
+
+.Bgoodggo .Bg_car .Bg_carlist { float: left; width: 100%; margin: 20px 0; border: 1px solid #ccc; }
+
+.Bgoodggo .Bg_car .Bg_carlist .Bg_carlist_t { width: 100%; height: 40px; line-height: 40px; background: #FDF6EE; border-bottom: 1px solid #ccc; float: left; }
+
+.Bgoodggo .Bg_car .Bg_carlist .Bg_carlist_t label { margin-left: 20px; }
+
+.Bgoodggo .Bg_car .Bg_carlist .Bg_carlist_t span { float: right; margin-right: 50px; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul { float: left; padding: 20px; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li { width: 193px; height: 78px; float: left; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li .imglist { display: block; width: 78px; height: 78px; border: 1px solid #ccc; float: left; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li .imglist img { width: 78px; height: 78px; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li p { display: block; font-size: 14px; font-weight: bold; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li span { width: 193px; font-size: 12px; font-weight: normal; text-align: center; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul li .check { float: left; margin: 0 20px; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .two { display: block; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .two span { display: block; width: 193px; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .four .jian, .Bgoodggo .Bg_car .Bg_carlist ul .four .add { display: block; width: 17px; height: 25px; line-height: 25px; border: 1px solid #ccc; float: left; background: #ccc; color: black; text-align: center; cursor: pointer; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .four .input { width: 52px; height: 25px; line-height: 25px; border: 1px solid #ccc; float: left; text-align: center; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .fir { color: red; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .fir .total { font-weight: bold; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .six { display: block; }
+
+.Bgoodggo .Bg_car .Bg_carlist ul .six .sc { display: block; float: right; cursor: pointer; }
+
+.Bgoodggo .Bg_car .Bg_bt { width: 100%; height: 60px; background: #ccc; line-height: 60px; font-size: 14px; float: left; margin: 20px 0; }
+
+.Bgoodggo .Bg_car .Bg_bt label { margin-left: 20px; cursor: pointer; }
+
+.Bgoodggo .Bg_car .Bg_bt a { margin: 0 5px; }
+
+.Bgoodggo .Bg_car .Bg_bt .all_p { font-style: normal; font-size: 20px; color: #f8584f; margin-left: 470px; }
+
+.Bgoodggo .Bg_car .Bg_bt .btn_all { float: right; width: 12%; height: 60px; text-align: center; line-height: 60px; font-size: 26px; color: #fff; }
+
+.Bgoodggo .Bg_car .Bg_bt .btn_all:hover { background: #F8584F; }
