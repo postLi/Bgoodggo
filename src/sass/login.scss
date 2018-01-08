@@ -15,7 +15,7 @@
 			}
 			.Bg_login_box_right{
 				width:337px;
-				height:481px;
+				
 				border:1px solid #ccc;
 				float:left;
 				.selTab{
@@ -43,6 +43,9 @@
 					padding:29px 0;
 					width:338px;
 					border-bottom:1px solid #ccc;
+					.active{
+						border:1px solid red;
+					}
 					.Lfll{
 						padding-left:10px;
 						height:50px;
@@ -55,6 +58,14 @@
 							line-height:28px;
 							float:left;
 							text-align:right;
+						}
+						.err{
+							width:234px;
+							height:30px;
+							position:absolute;
+							left:80px;
+							top:32px;
+							color:red;
 						}
 						input{
 							height:28px;
@@ -76,6 +87,7 @@
 					.check_box{
 						height:28px;
 						text-align:center;
+						margin-top:20px;
 						#checkbox{
 							margin-left:20px;
 						}
@@ -88,7 +100,7 @@
 							line-height:34px;
 							background:#F21818;
 							border-radius:5px;
-							cursor: pointer;
+							
 							font-size:18px;
 							color:#fff;
 							margin:0 5px;

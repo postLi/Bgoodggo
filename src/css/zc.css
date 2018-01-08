@@ -32,4 +32,4 @@
 
 .Bgoodggo .Bg_zc .Bg_zc_phone .Bg_zc_phone_l .Bg_zc_phone_l_y .btn_flush { display: block; width: 40px; height: 32px; line-height: 32px; text-align: center; color: #999999; float: left; cursor: pointer; }
 
-.Bgoodggo .Bg_zc .Bg_zc_phone p .btn_send { display: block; width: 152px; height: 34px; text-align: center; line-height: 34px; font-size: 14px; color: #fff; border: 1px solid #FE8383; background: #EB1010; margin-left: 120px; border-radius: 5px; }
+.Bgoodggo .Bg_zc .Bg_zc_phone .btn_send { width: 152px; height: 34px; text-align: center; line-height: 34px; font-size: 14px; color: #fff; border: 1px solid #FE8383; background: #EB1010; margin-left: 120px; border-radius: 5px; }

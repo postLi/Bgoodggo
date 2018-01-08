@@ -104,20 +104,17 @@
 					}
 				}
 			}
-			p{
-				.btn_send{
-					display:block;
-					width:152px;
-					height:34px;
-					text-align:center;
-					line-height:34px;
-					font-size:14px;
-					color:#fff;
-					border:1px solid #FE8383;
-					background:#EB1010;
-					margin-left:120px;
-					border-radius:5px;
-				}
+			.btn_send{
+				width:152px;
+				height:34px;
+				text-align:center;
+				line-height:34px;
+				font-size:14px;
+				color:#fff;
+				border:1px solid #FE8383;
+				background:#EB1010;
+				margin-left:120px;
+				border-radius:5px;
 			}
 		}
 	}

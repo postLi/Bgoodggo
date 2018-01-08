@@ -162,6 +162,7 @@
 						height:530px;
 						border:1px solid #D51819;
 						padding:14px;
+
 						display:none;
 						li{
 							h2{
@@ -178,9 +179,6 @@
 						}
 					}	
 				}
-				.Bg_nav_left:hover .Bg_nav_list{
-						display:block;
-					}
 				.Bg_nav_right{
 					width:807px;
 					float:left;
@@ -195,10 +193,7 @@
 					}
 					li:hover{
 						background:#D51819;
-						a{
-
-							color:#fff;
-						}
+						
 					}
 				}
 			}

@@ -6,7 +6,7 @@
 
 .container .Bgoodggo_login .Bg_login_box .img_left { display: block; float: left; }
 
-.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right { width: 337px; height: 481px; border: 1px solid #ccc; float: left; }
+.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right { width: 337px; border: 1px solid #ccc; float: left; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .selTab { height: 40px; position: relative; border-bottom: 1px solid #ccc; }
 
@@ -16,9 +16,13 @@
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox { padding: 29px 0; width: 338px; border-bottom: 1px solid #ccc; }
 
+.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .active { border: 1px solid red; }
+
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .Lfll { padding-left: 10px; height: 50px; position: relative; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .Lfll span { display: block; font-size: 14px; width: 70px; height: 28px; line-height: 28px; float: left; text-align: right; }
+
+.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .Lfll .err { width: 234px; height: 30px; position: absolute; left: 80px; top: 32px; color: red; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .Lfll input { height: 28px; width: 232px; line-height: 28px; border: 1px solid #ccc; }
 
@@ -26,12 +30,12 @@
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .Lfll .lovh #vcode { width: 62px; float: left; border: 1px solid #F11515; }
 
-.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .check_box { height: 28px; text-align: center; }
+.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .check_box { height: 28px; text-align: center; margin-top: 20px; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .check_box #checkbox { margin-left: 20px; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .btn_box { padding-left: 80px; }
 
-.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .btn_box .btn_login { width: 104px; height: 34px; line-height: 34px; background: #F21818; border-radius: 5px; cursor: pointer; font-size: 18px; color: #fff; margin: 0 5px; border: 1px solid #F11515; box-shadow: 1px 1px 1px 1px  #FE8383 inset,-1px -1px 1px 1px  #FE8383 inset; }
+.container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .btn_box .btn_login { width: 104px; height: 34px; line-height: 34px; background: #F21818; border-radius: 5px; font-size: 18px; color: #fff; margin: 0 5px; border: 1px solid #F11515; box-shadow: 1px 1px 1px 1px  #FE8383 inset,-1px -1px 1px 1px  #FE8383 inset; }
 
 .container .Bgoodggo_login .Bg_login_box .Bg_login_box_right .formbox .btn_box a { width: 60px; height: 30px; text-decoration: underline; }

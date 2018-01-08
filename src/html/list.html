@@ -8,9 +8,10 @@
 	<link rel="stylesheet" href="../css/header.css">
 	<link rel="stylesheet" href="../css/footer.css">
 	<script src="../lib/jquery-3.2.1.js"></script>
-	<script src="../js/list.js"></script>
+	
 </head>
 <body>
+<script src="../js/require.js" data-main="../js/list.js"></script>
 	<script>
 		$(function(){
 			$('.pageHeader').load('header.html')
@@ -113,8 +114,8 @@
 							<li><a href="#">新品</a></li>
 							<li><a href="#">销量</a></li>
 							<li><a href="#">折扣</a></li>
-							<li><a href="#">价格从高到低</a></li>
-							<li><a href="#">价格低到高</a></li>
+							<li class="btnH"><a href="#">价格从高到低</a></li>
+							<li class="btnL"><a href="#">价格低到高</a></li>
 						</ul>
 					</div>
 					<div class="Bg_goodlist">
